@@ -15,6 +15,9 @@ body {
   height: 30rem;
   padding-top: 1rem;
   background-image: url('https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/bg-photo.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .main img {
